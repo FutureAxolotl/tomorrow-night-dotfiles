@@ -11,6 +11,7 @@ COMING SOON: install.sh
 You will at least need:
 
 * Iosevka Nerd Font
+* JetBrainsMono Nerd Font
 * Fish Shell and Oh my Fish with the pure theme installed (https://github.com/pure-fish/pure)
 * Dunst
 * Picom
