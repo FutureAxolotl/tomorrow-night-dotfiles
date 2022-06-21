@@ -19,6 +19,7 @@ You will at least need:
 * Emacs with Doom Emacs installed (https://github.com/doomemacs/doomemacs)
 * Polybar
 * Macchina
+* feh
 
 # Installation
 To install the dotfiles, put them in the directories they need to go in (all should be located in `.config`, execpt for the Doom Emacs config, which goes in `.doom.d`). You may have to `chmod +x` the `bspwmrc` and `sxhkd` files.
