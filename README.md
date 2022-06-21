@@ -20,6 +20,7 @@ You will at least need:
 * Polybar
 * Macchina
 * feh or nitrogen
+
 NOTE: You may have to edit the `sxhkdrc` file based off of what you use for web browser, terminal emulator, and program launcher.
 
 # Installation
