@@ -19,6 +19,7 @@ You will at least need:
 * Emacs with Doom Emacs installed (https://github.com/doomemacs/doomemacs)
 * Elcord Emacs package installed for a Discord Rich Presence status that shows what you're editing
 * Dired-sidebar Emacs package installed for the sidebar that shows what files are in the directory you're in (optional) 
+* Vterm Emacs package installed for an Emacs terminal emulator (optional)
 * Polybar
 * Macchina
 * feh or nitrogen
