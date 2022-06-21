@@ -1,7 +1,7 @@
 # Dotfiles
 These are some of my dotfiles.
 
-NOTE: may consistently update
+NOTE: Dotfiles may consistently update.
 
 COMING SOON: install.sh
 
@@ -20,6 +20,7 @@ You will at least need:
 * Polybar
 * Macchina
 * feh or nitrogen
+NOTE: You may have to edit the `sxhkdrc` file based off of what you use for web browser, terminal emulator, and program launcher.
 
 # Installation
 To install the dotfiles, put them in the directories they need to go in (all should be located in `.config`, execpt for the Doom Emacs config, which goes in `.doom.d`). You may have to `chmod +x` the `bspwmrc` and `sxhkd` files.
