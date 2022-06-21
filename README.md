@@ -5,7 +5,7 @@ NOTE: may consistently update
 
 COMING SOON: install.sh
 
-
+![Preview](preview.png)
 
 # Dependencies
 You will at least need:
