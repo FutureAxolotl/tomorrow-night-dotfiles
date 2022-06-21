@@ -3,7 +3,7 @@ These are some of my dotfiles.
 
 NOTE: Dotfiles may consistently update.
 
-COMING SOON: install.sh
+COMING SOON (MAYBE): install.sh
 
 ![Preview](preview.png)
 
