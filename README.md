@@ -18,7 +18,8 @@ You will at least need:
 * BSPWM & SXHKD
 * Emacs with Doom Emacs installed (https://github.com/doomemacs/doomemacs)
 * Elcord Emacs package installed for a Discord Rich Presence status that shows what you're editing
-* Dired-sidebar Emacs package installed for the sidebar that shows what files are in the directory you're in (optional) 
+* Treemacs Emacs package installed for a sidebar that shows files
+* Tremacs-All-The-Icons Emacs package installed for the icons in Treemacs 
 * Vterm Emacs package installed for an Emacs terminal emulator (optional)
 * Polybar
 * Macchina
