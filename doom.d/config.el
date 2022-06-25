@@ -78,4 +78,5 @@
 (tool-bar-mode -1)
 (package-initialize)
 (elcord-mode)
-(add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
+(require 'treemacs-all-the-icons)
+(treemacs-load-theme "all-the-icons")
