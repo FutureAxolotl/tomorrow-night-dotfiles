@@ -73,6 +73,7 @@
 ;; enable line numbers, set it to `t'.
 (setq display-line-numbers-type t)
 
+;; Some basic configuration stuff
 (menu-bar-mode -1)
 (toggle-scroll-bar -1)
 (tool-bar-mode -1)
@@ -81,3 +82,10 @@
 (require 'treemacs-all-the-icons)
 (treemacs-load-theme "all-the-icons")
 
+;; Some keybindings
+(map! :leader
+      :desc "open vterm"
+      "v" #'vterm)
+(map! :leader
+      :desc "open treemacs"
+      "t t" #'treemacs)
