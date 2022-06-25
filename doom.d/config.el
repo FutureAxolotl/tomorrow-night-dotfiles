@@ -80,3 +80,4 @@
 (elcord-mode)
 (require 'treemacs-all-the-icons)
 (treemacs-load-theme "all-the-icons")
+(treemacs)
