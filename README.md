@@ -23,7 +23,7 @@ You will at least need:
 * Vterm Emacs package installed for an Emacs terminal emulator (optional)
 * Polybar
 * Macchina
-* feh or nitrogen
+* feh
 
 NOTE: You may have to edit the `sxhkdrc` file based off of what you use for web browser, terminal emulator, and program launcher.
 
