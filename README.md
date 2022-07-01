@@ -1,6 +1,6 @@
 # Dotfiles
 These are some of my dotfiles.
-Thanks to CordlessCoder for the polywins Polybar module! (https://github.com/CordlessCoder/polywins.py)
+Thanks to [CordlessCoder](https://github.com/CordlessCoder) for the [polywins Polybar module](https://github.com/CordlessCoder/polywins.py)!
 
 NOTE: Dotfiles may consistently update. Also, the text editor in the picture is VScodium. Emacs config is still up to date, though.
 
@@ -15,7 +15,7 @@ You will at least need:
 * Dunst
 * Picom
 * BSPWM & SXHKD
-* Emacs with Doom Emacs installed (https://github.com/doomemacs/doomemacs)
+* [Emacs](https://www.gnu.org/software/emacs/) with [Doom Emacs](https://github.com/doomemacs/doomemacs) installed 
 * Elcord Emacs package installed for a Discord Rich Presence status that shows what you're editing
 * Treemacs Emacs package installed for a sidebar that shows files
 * Tremacs-All-The-Icons Emacs package installed for the icons in Treemacs 
