@@ -11,7 +11,7 @@ You will at least need:
 
 * Iosevka Nerd Font
 * JetBrainsMono Nerd Font
-* Fish Shell and Oh my Fish with the pure theme installed (https://github.com/pure-fish/pure)
+* Fish Shell and [Oh my Fish](https://github.com/oh-my-fish/oh-my-fish) with the [Fish Pure Theme](https://github.com/pure-fish/pure) installed
 * Dunst
 * Picom
 * BSPWM & SXHKD
