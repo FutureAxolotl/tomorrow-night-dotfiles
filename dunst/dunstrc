@@ -299,18 +299,18 @@
 [urgency_low]
 # IMPORTANT: colors have to be defined in quotation marks.
 # Otherwise the "#" and following would be interpreted as a comment.
-foreground = "#88afff"
-background = "#16161e"
+foreground = "#969896"
+background = "#1d1f21"
 timeout = 4
 
 [urgency_normal]
-foreground = "#88afff"
-background = "#16161e"
+foreground = "#c5d8c6"
+background = "#1d1f21"
 timeout = 6
 
 [urgency_critical]
-foreground = "#f7768e"
-background = "#16161e"
+foreground = "#cc6666"
+background = "#1d1f21"
 timeout = 8
 
     # Icon for notifications with critical urgency, uncomment to enable
