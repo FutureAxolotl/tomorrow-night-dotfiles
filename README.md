@@ -3,6 +3,7 @@ These are some of my dotfiles.
 
 NOTE: Dotfiles may consistently update. Also, the text editor in the picture is VScodium. Emacs config is still up to date, though.
 
+![Preview](preview.png)
 
 # Dependencies
 You will at least need:
