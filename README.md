@@ -15,7 +15,7 @@ You will at least need:
 * Dunst
 * Picom
 * BSPWM & SXHKD
-* [Emacs](https://www.gnu.org/software/emacs/) with [Doom Emacs](https://github.com/doomemacs/doomemacs) installed 
+* Emacs with [Doom Emacs](https://github.com/doomemacs/doomemacs) installed 
 * Elcord Emacs package installed for a Discord Rich Presence status that shows what you're editing
 * Treemacs Emacs package installed for a sidebar that shows files
 * Tremacs-All-The-Icons Emacs package installed for the icons in Treemacs 
@@ -24,6 +24,7 @@ You will at least need:
 * Macchina
 * Feh
 * Rofi
+* Discord with [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) installed
 
 NOTE: You may have to edit the `sxhkdrc` file based off of what you use for web browser, terminal emulator, and text editor.
 
