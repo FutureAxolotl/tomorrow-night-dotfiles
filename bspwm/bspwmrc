@@ -10,7 +10,7 @@ picom &
 
 dunst &
 
-feh --bg-scale ~/Pictures/wallpapers/tokyo.jpg
+feh --bg-scale ~/Pictures/wallpapers/brazil.jpg
 
 
 [ "$1" = 0 ] && {
