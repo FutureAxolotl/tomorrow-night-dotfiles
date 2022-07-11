@@ -45,4 +45,4 @@ theme = "Beryllium"
 #   - Memory
 #   - Battery
 # Example:
-show = ["Kernel", "Distribution", "DesktopEnvironment", "Packages", "Terminal", "Shell",]
+show = ["Kernel", "Distribution", "WindowManager", "Packages", "Terminal", "Shell",]
