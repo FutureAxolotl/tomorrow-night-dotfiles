@@ -3,7 +3,7 @@
 spacing         = 3
 hide_ascii      = false
 key_color       = "#E8A2AF"
-separator       = ">"
+separator       = ""
 
 [box]
 border          = "plain"
