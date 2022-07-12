@@ -29,4 +29,4 @@ You will at least need:
 NOTE: You may have to edit the `sxhkdrc` file based off of what you use for web browser, terminal emulator, and text editor.
 
 # Installation
-To install the dotfiles, put them in the directories they need to go in (all should be located in `.config`, execpt for the Doom Emacs config, which goes in `.doom.d`). You may have to `chmod +x` the `bspwmrc` and `sxhkd` files. You will have to change `DVI-0` in line 300 of the Polybar config to whatever the monitor input is (run `xrandr` if you don't know what input it is).
+To install the dotfiles, put them in the directories they need to go in (all should be located in `.config`, execpt for the Doom Emacs config, which goes in `.doom.d`). You may have to `chmod +x` the `bspwmrc` and `sxhkd` files. You will have to change `DVI-0` in line 300 of the Polybar config to whatever the monitor input is (run `xrandr` if you don't know what input it is). For information about multi-monitor support refer to the [Polywins.py GitHub page](https://github.com/CordlessCoder/polywins.py).
