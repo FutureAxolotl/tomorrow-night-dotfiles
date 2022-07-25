@@ -1,5 +1,5 @@
 # Dotfiles
-These are some of my dotfiles.
+Here is some of my dotfiles themed to the Tomorrow Night colorscheme.
 Thanks to [CordlessCoder](https://github.com/CordlessCoder) for the [polywins Polybar module](https://github.com/CordlessCoder/polywins.py)!
 
 NOTE: Dotfiles may consistently update. Also, the text editor in the picture is VScodium. Emacs config is still up to date, though.
