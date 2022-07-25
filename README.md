@@ -1,4 +1,4 @@
-# Dotfiles
+# tomorrow-night-dotfiles
 Here is some of my dotfiles themed to the Tomorrow Night colorscheme.
 Thanks to [CordlessCoder](https://github.com/CordlessCoder) for the [polywins Polybar module](https://github.com/CordlessCoder/polywins.py)!
 
